@@ -1,0 +1,1484 @@
+repo_name: larabecker/rizzo
+report_id: 6fd38ddac4d7e38f49c91d18784058f7
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T18:02:20+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 110
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: HAML
+  description: HTML Abstraction Markup Language - A Markup Haiku
+  website_url: http://haml.info/
+  version: 5.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1169/Picture_2.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Marc
+  last_updated_on: 2012-04-30 17:04:58.000000000 Z
+- name: Hogan.js
+  description: A compiler for the Mustache templating language
+  website_url: http://twitter.github.io/hogan.js/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: NVD3
+  description: Re-usable charts for d3.js
+  website_url: http://nvd3.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/4367/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Ian
+  last_updated_on: 2013-06-25 23:18:43.000000000 Z
+- name: Rails
+  description: Web development that doesn't hurt
+  website_url: http://rubyonrails.org/
+  version: 4.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/990/x57_Lorv.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/rizzo.gemspec
+  detection_source: rizzo.gemspec
+  last_updated_by: Marc
+  last_updated_on: 2012-04-30 17:04:58.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Bartek
+  last_updated_on: 2017-01-27 15:15:00.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: Capybara
+  description: Acceptance test framework for web applications
+  website_url: http://jnicklas.github.io/capybara/
+  version: 1.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2595/capybara.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Anselmo da Silva
+  last_updated_on: 2012-12-17 16:04:56.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  version: 2.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Marc
+  last_updated_on: 2012-04-30 17:04:58.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.1.11
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Ben Tedder
+  last_updated_on: 2014-04-04 16:30:28.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 0.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: Descript
+  description: A collaborative audio/video editor that works like a doc
+  website_url: https://www.descript.com/
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Video Marketing and Analytics
+  image_url: https://img.stackshare.io/service/21344/default_6f7cae8b4ddb7a7b52b07db55f14a397f7953656.jpg
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/requirejs/bower.json
+  detection_source: vendor/assets/javascripts/requirejs/bower.json
+  last_updated_by: ianfeather
+  last_updated_on: 2014-02-25 04:59:11.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: ECT
+  website_url: http://ectjs.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/larabecker/rizzo
+  detection_source: Repo Metadata
+- name: Twitter API
+  description: Build bots that communicate smartly.
+  website_url: https://twitter.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2466/twitterdev_gear.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: UglifyJS
+  description: A JavaScript parser, minifier, compressor and beautifier toolkit.
+  website_url: http://lisperator.net/uglifyjs/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile
+  detection_source: Gemfile
+  last_updated_by: ianfeather
+  last_updated_on: 2015-02-17 14:49:28.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: nci
+  description: Flexible, open source continuous integration server written in node.js
+  website_url: https://github.com/node-ci/nci
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: grunt-concurrent
+  description: Run grunt tasks concurrently
+  package_url: https://www.npmjs.com/grunt-concurrent
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16823/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-contrib-coffee
+  description: Compile CoffeeScript files to JavaScript
+  package_url: https://www.npmjs.com/grunt-contrib-coffee
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-contrib-jasmine
+  description: Run jasmine specs headlessly through Headless Chrome
+  package_url: https://www.npmjs.com/grunt-contrib-jasmine
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16820/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-jscs
+  description: Grunt task for checking JavaScript Code Style with jscs
+  package_url: https://www.npmjs.com/grunt-jscs
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-open
+  description: Open urls and files from a grunt task
+  package_url: https://www.npmjs.com/grunt-open
+  version: 0.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17401/default_7b8a4dd0459c1d55636639cb97d216b33a363a7f.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-shell
+  description: Run shell commands
+  package_url: https://www.npmjs.com/grunt-shell
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: grunt-svgmin
+  description: Minify SVG
+  package_url: https://www.npmjs.com/grunt-svgmin
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18677/default_ee6b4297c393c737b2e05ae6453ec620a6c456eb.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: jasmine-jquery
+  description: JQuery matchers and fixture loader for Jasmine framework
+  package_url: https://www.npmjs.com/jasmine-jquery
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18383/default_443ead48d03f7b1fc57a05db4ff2c559c3e54f5e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: matchdep
+  description: Use micromatch to filter npm module dependencies by name
+  package_url: https://www.npmjs.com/matchdep
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16416/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Tomek Kalinowski
+  last_updated_on: 2017-01-20 17:45:27.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: must
+  description: Testing and assertion library with friendly BDD syntax — awesome.must.be.true
+  package_url: https://www.npmjs.com/must
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17512/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: nopt
+  description: Option parsing for Node, supporting types, shorthands, etc
+  package_url: https://www.npmjs.com/nopt
+  version: 1.0.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16662/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: raf
+  description: RequestAnimationFrame polyfill for node and the browser
+  package_url: https://www.npmjs.com/raf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: step
+  description: A simple control-flow library for node.JS that makes parallel execution
+  package_url: https://www.npmjs.com/step
+  version: 0.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18191/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: twit
+  description: Twitter API client for node
+  package_url: https://www.npmjs.com/twit
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18372/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: twitter
+  description: Twitter API client library for node.js
+  package_url: https://www.npmjs.com/twitter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18617/default_556cbbde03c4b61e43fa7de374efed6927510d08.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/hogan/package.json
+  detection_source: vendor/assets/javascripts/hogan/package.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/flamsteed/package.json
+  detection_source: vendor/assets/javascripts/flamsteed/package.json
+  last_updated_by: Ian
+  last_updated_on: 2013-07-09 22:07:35.000000000 Z
+- name: addressable
+  description: Addressable is an alternative implementation to the URI implementation
+    that is part of Ruby's standard library
+  package_url: https://rubygems.org/addressable
+  version: 2.3.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18870/default_63d360ffaa27bed91e2b067fb467407b5c9da0ed.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-20 18:18:33.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in Addressable templates
+    cve_id: CVE-2021-32740
+    cve_url: https://github.com/advisories/GHSA-jxhc-q857-3j6g
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.8.0
+- name: autoprefixer-rails
+  description: Parse CSS and add vendor prefixes to CSS rules usingvalues from the
+    Can I Use website
+  package_url: https://rubygems.org/autoprefixer-rails
+  version: 6.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19215/default_e38d6385c75dafbe16c1c806ccf1fd483b747794.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: better_errors
+  description: Provides a better error page for Rails and other Rack apps
+  package_url: https://rubygems.org/better_errors
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19224/default_90da4313847baa579409c050c1ebb8de5a6e0fbc.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Ian
+  last_updated_on: 2013-10-02 09:21:53.000000000 Z
+  vulnerabilities:
+  - name: Older releases of better_errors open to Cross-Site Request Forgery attack
+    cve_id: CVE-2021-39197
+    cve_url: https://github.com/advisories/GHSA-w3j4-76qw-wwjm
+    detected_date: Sep 8
+    severity: moderate
+    first_patched: 2.8.0
+- name: binding_of_caller
+  description: Retrieve the binding of a method's caller
+  package_url: https://rubygems.org/binding_of_caller
+  version: 0.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19104/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-05-29 11:55:34.000000000 Z
+- name: cucumber
+  description: Behaviour Driven Development with elegance and joy
+  package_url: https://rubygems.org/cucumber
+  version: 1.3.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18850/default_9195eef8b445934279a2de2859285e6b74c9ad5d.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Anselmo da Silva
+  last_updated_on: 2012-09-13 15:21:22.000000000 Z
+- name: cucumber-rails
+  description: Cucumber Generator and Runtime for Rails
+  package_url: https://rubygems.org/cucumber-rails
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19135/default_39d99faea8adcc49dfa783f38d3b64266d21c1fe.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: dotenv
+  description: Loads environment variables from `.env`
+  package_url: https://rubygems.org/dotenv
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18872/default_9f8a49220f5ab59465a6f5b8564bea999428120f.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Lee Jones
+  last_updated_on: 2014-05-15 02:22:00.000000000 Z
+- name: haml-rails
+  description: Haml-rails provides Haml generators for Rails 4
+  package_url: https://rubygems.org/haml-rails
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19023/default_507eef785a48577c5983d32818431fef23fc4e87.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: headless
+  description: Headless is a Ruby interface for Xvfb
+  package_url: https://rubygems.org/headless
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19412/default_43f7c1a1bcc153423c931e833d2eeb4ab9b3e618.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/rizzo.gemspec
+  detection_source: rizzo.gemspec
+  last_updated_by: Ian
+  last_updated_on: 2013-09-16 15:49:53.000000000 Z
+- name: lograge
+  description: Tame Rails' multi-line logging into a single line per request
+  package_url: https://rubygems.org/lograge
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Ian
+  last_updated_on: 2013-07-22 12:57:09.000000000 Z
+- name: logstash-event
+  description: Library that contains the classes required to create LogStash events
+  package_url: https://rubygems.org/logstash-event
+  version: 1.2.02
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Ian
+  last_updated_on: 2013-07-22 12:57:09.000000000 Z
+- name: pry-rails
+  description: Use Pry as your rails console
+  package_url: https://rubygems.org/pry-rails
+  version: 0.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19013/default_3667c8b28d9ec2ad93884ef523ec8f357774f78e.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: 12.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Anselmo da Silva
+  last_updated_on: 2012-09-11 18:18:23.000000000 Z
+  vulnerabilities:
+  - name: OS Command Injection in Rake
+    cve_id: CVE-2020-8130
+    cve_url: https://github.com/advisories/GHSA-jppv-gw3r-w3q8
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 12.3.3
+- name: redcarpet
+  description: A fast, safe and extensible Markdown to
+  package_url: https://rubygems.org/redcarpet
+  version: 3.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18853/default_b87d202e13d56f87c63181fa49bc5e099c9abaac.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Ian
+  last_updated_on: 2014-08-26 13:43:57.000000000 Z
+  vulnerabilities:
+  - name: Injection/XSS in Redcarpet
+    cve_id: CVE-2020-26298
+    cve_url: https://github.com/advisories/GHSA-q3wr-qw3g-3p4h
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.5.1
+- name: rspec-rails
+  description: Rspec-rails is a testing framework for Rails 3+
+  package_url: https://rubygems.org/rspec-rails
+  version: 2.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18830/default_ba8d7756589e5fc0164687950e3f091b32554546.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: rubyzip
+  description: Rubyzip is a ruby module for reading and writing zip files
+  package_url: https://rubygems.org/rubyzip
+  version: 1.2.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18887/default_1e22ca9f3f63a8c93249bae500705b9451e7e882.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-20 17:39:27.000000000 Z
+  vulnerabilities:
+  - name: Rubyzip gem contains a Directory Traversal vulnerability in zip file component
+    cve_id: CVE-2018-1000544
+    cve_url: https://github.com/advisories/GHSA-vqcq-mrmw-mcmg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.2.2
+  - name: 'Rubyzip denial of service '
+    cve_id: CVE-2019-16892
+    cve_url: https://github.com/advisories/GHSA-5m2v-hc64-56h6
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.3.0
+- name: sass-globbing
+  description: Allows use of globs in Sass @import directives
+  package_url: https://rubygems.org/sass-globbing
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: ianfeather
+  last_updated_on: 2015-02-17 14:49:28.000000000 Z
+- name: sass-rails
+  description: Sass adapter for the Rails asset pipeline
+  package_url: https://rubygems.org/sass-rails
+  version: 5.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18876/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: selenium-webdriver
+  description: WebDriver is a tool for writing automated tests of websites
+  package_url: https://rubygems.org/selenium-webdriver
+  version: 2.39.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18901/default_f0ad2b1ffbe10fdd866f9f8e5f812599d9e8085b.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-20 18:05:37.000000000 Z
+- name: sprockets
+  description: Sprockets is a Rack-based asset packaging system that concatenates
+    and serves JavaScript
+  package_url: https://rubygems.org/sprockets
+  version: 3.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18932/default_36bbb38c1cd5521e90d6e99982778960b00ec515.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: sprockets-rails
+  description: Sprockets Rails integration
+  package_url: https://rubygems.org/sprockets-rails
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19198/default_be4b4d308c5637e0747ed40c613027452d6ef0c5.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: laserchicken
+  last_updated_on: 2018-03-21 12:04:50.000000000 Z
+- name: typhoeus
+  description: Like a modern code version of the mythical beast with 100 serpent heads
+  package_url: https://rubygems.org/typhoeus
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18891/default_b7088ec778267614a78a5a472c67252ec1721d10.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: mateusz_kmiecinski
+  last_updated_on: 2015-12-21 15:31:06.000000000 Z
+- name: uglifier
+  description: Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible
+    in Ruby
+  package_url: https://rubygems.org/uglifier
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18967/default_20d16c1471b93397c8ef93b19baf0989f59663c0.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: ianfeather
+  last_updated_on: 2015-02-17 14:49:28.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js
+    cve_id: CVE-2015-8857
+    cve_url: https://github.com/advisories/GHSA-34r7-q49f-h37c
+    detected_date: Mar 28
+    severity: critical
+    first_patched: 2.7.2
+- name: unicorn
+  description: Unicorn is an HTTP server for Rack applications designed to only serve
+    fast clients on low-latency
+  package_url: https://rubygems.org/unicorn
+  version: 4.8.3
+  license: GPL-2.0+,Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19218/default_504c6d1cb95a30a2134a5c2236c1c37c91700cc1.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Anselmo da Silva
+  last_updated_on: 2012-09-11 12:51:51.000000000 Z
+- name: bower
+  description: Atom javascript framewok
+  package_url: http://bower.io/bower
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: d3
+  description: A JavaScript visualization library for HTML and SVG
+  package_url: http://bower.io/d3
+  version: 3.4.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Ian
+  last_updated_on: 2013-06-25 23:18:43.000000000 Z
+- name: ejs
+  description: Embedded JavaScript templates for node
+  package_url: http://bower.io/ejs
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: he
+  description: A robust HTML entity encoder/decoder written in JavaScript
+  package_url: http://bower.io/he
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: hello
+  description: A Javascript RESTFUL API library for connecting with OAuth2 services
+  package_url: http://bower.io/hello
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Bartek
+  last_updated_on: 2015-03-13 12:34:57.000000000 Z
+- name: hogan
+  description: A compiler for the Mustache templating language
+  package_url: http://bower.io/hogan
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: jquery-timeago
+  description: Timeago is a jQuery plugin that makes it easy to support automatically
+    updating fuzzy timestamps
+  package_url: http://bower.io/jquery-timeago
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Bartek
+  last_updated_on: 2017-01-27 15:15:00.000000000 Z
+- name: nvd3
+  description: Re-usable charts and chart components for d3
+  package_url: http://bower.io/nvd3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: ianfeather
+  last_updated_on: 2015-02-13 15:16:22.000000000 Z
+- name: page
+  description: Tiny client-side router
+  package_url: http://bower.io/page
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/requirejs/bower.json
+  detection_source: vendor/assets/javascripts/requirejs/bower.json
+  last_updated_by: ianfeather
+  last_updated_on: 2014-02-25 04:59:11.000000000 Z
+- name: pickadate
+  description: The mobile-friendly
+  package_url: http://bower.io/pickadate
+  version: 3.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Remy Bach
+  last_updated_on: 2014-03-05 16:57:33.000000000 Z
+- name: q
+  description: A promise library for JavaScript
+  package_url: http://bower.io/q
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: r.js
+  description: Runs RequireJS in Node and Rhino
+  package_url: http://bower.io/r.js
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
+- name: requirejs
+  description: A file and module loader for JavaScript
+  package_url: http://bower.io/requirejs
+  version: 2.1.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Ben Tedder
+  last_updated_on: 2014-04-04 16:30:28.000000000 Z
+- name: toc
+  description: JQuery Table of Contents Plugin
+  package_url: http://bower.io/toc
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/larabecker/rizzo/blob/master/vendor/assets/javascripts/autocomplete/bower.json
+  detection_source: vendor/assets/javascripts/autocomplete/bower.json
+  last_updated_by: Matt Hinchliffe
+  last_updated_on: 2014-08-01 11:52:17.000000000 Z
